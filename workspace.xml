@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff5f6698-992d-4f35-9488-2d7ee811015c" name="Changes" comment="demo">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/index.html" afterDir="false" />
+    <list default="true" id="ff5f6698-992d-4f35-9488-2d7ee811015c" name="Changes" comment="plz work">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/landing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/landing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqaw.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sqaw.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqaw2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sqaw2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +42,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1993\OneDrive\Desktop\Java Work\landing" />
       <recent name="C:\Users\1993\OneDrive\Desktop\Java Work\landing\.idea\src" />
       <recent name="C:\Users\1993\OneDrive\Desktop\Java Work\landing\.idea" />
     </key>
@@ -56,11 +64,20 @@
       <option name="project" value="LOCAL" />
       <updated>1742441062262</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="plz work">
+      <option name="closed" value="true" />
+      <created>1742443171458</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742443171458</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="demo" />
+    <MESSAGE value="plz work" />
+    <option name="LAST_COMMIT_MESSAGE" value="plz work" />
   </component>
 </project>

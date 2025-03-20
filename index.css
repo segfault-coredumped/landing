@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
+
 }
 
 header {
@@ -25,12 +26,17 @@ main {
     background-color: #f5f5f5;
     padding: 20px 20px;
     border-radius: 8px;
+    width: 685px;
+    margin: 20px auto;
 }
 
 #infoContainer2 {
     background-color: #f5f5f5;
     padding: 20px 20px;
     border-radius: 8px;
+    width: 685px;
+    margin: 20px auto;
+
 }
 
 section {
